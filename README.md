@@ -90,7 +90,7 @@ Data was subsequently loaded into these tables using pgAdmin’s import feature,
 
 <h2>7. 🧪 How to Run the Scripts</h2>
 
-<b>1. Load the data into a PostgreSQL database (sample CSVs not included in this repo).</b>
+<b>1. Load the data into a PostgreSQL database (CSVs files included in data folder).</b>
 
 <b>2. Open pgAdmin and connect to your database.</b>
 
