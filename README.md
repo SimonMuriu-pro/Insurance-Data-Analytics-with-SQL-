@@ -65,11 +65,9 @@ Data was subsequently loaded into these tables using pgAdmin’s import feature,
 -	Summary statistics for payments and claims
 -	Feedback comment exploration and satisfaction scoring
 </b>
-<b>See: 
 
-[eda.sql](https://github.com/SimonMuriu-pro/Insurance-Data-Analytics-with-SQL-/blob/main/scripts/eda.sql)
- for the complete script.
-</b>
+<b>See: [eda.sql](https://github.com/SimonMuriu-pro/Insurance-Data-Analytics-with-SQL-/blob/main/scripts/eda.sql)</b>
+ <b>for the complete script.</b>
 
 <b>This step ensured the dataset was clean, logically sound, and suitable for downstream analysis.</b>
 
